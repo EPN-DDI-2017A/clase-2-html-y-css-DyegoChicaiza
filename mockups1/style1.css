@@ -1,0 +1,40 @@
+body{
+    font-size: 15px;
+}
+
+img{
+    width: 370px;
+    height: 305px;
+}
+
+.container{
+    width: 950px;
+    margin: 90px auto;
+}
+
+.title{
+    font-size: 3.6em;
+    padding: 40px 0px 0px 20px;
+    color: #ffffff;
+    margin-bottom: 45px;
+    background-color: #33BEBE;
+    letter-spacing: 0.1em;
+    font-family: "Arial";
+}
+
+.containt{
+    display: flex;
+
+}
+
+.description{
+    font-size: 1.7em;
+    margin-left: 80px;
+    color: #7C8B88;
+    transform: scalex(1.2);
+}
+
+#p{
+    font-family: 'Arial', sans-serif;
+    margin-top: 3.5px;
+}
